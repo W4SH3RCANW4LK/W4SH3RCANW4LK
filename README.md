@@ -40,7 +40,8 @@
 </p>
 
 <p align="center">
-  <img src="./character1.png" width="380">
+  <img src="./character_clean_transparent.gif" width="440">
+  
 </p>
 
 <p align="center">
