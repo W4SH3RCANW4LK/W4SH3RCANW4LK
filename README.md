@@ -6,7 +6,7 @@
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
 <p align="center">
-  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="680">
+  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="675">
 </p>
 <h3 align="center">✧ 𝟒𝐁𝟎𝐔𝐓 𝐌𝟑!1!1 ✧</h3>
 
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="./music2.svg" width="980">
+  <img src="./music2.svg" width="990">
 </p>
 
 
