@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./welcome.svg" width="900">
+  <img src="./welcome.svg" width="950">
 </p>
 
 <p align="center">
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
 <p align="center">
-  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="655">
+  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="680">
 </p>
 <h3 align="center">✧ 𝟒𝐁𝟎𝐔𝐓 𝐌𝟑!1!1 ✧</h3>
 
@@ -64,7 +64,7 @@
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="./footer.svg" width="920">
+  <img src="./footer.svg" width="900">
 </p>
 <p align="center">
   <img src="./kirby_transparent.gif" width="345">
