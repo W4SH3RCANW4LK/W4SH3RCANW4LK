@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="./character1.png" width="400">
+  <img src="./character1.png" width="380">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="./footer.svg" width="900">
+  <img src="./footer.svg" width="950">
 </p>
 <p align="center">
   <img src="./kirby_transparent.gif" width="345">
