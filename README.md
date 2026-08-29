@@ -9,7 +9,6 @@
 <p align="center">
   <img src="./character2.png" width="520">
 </p>
-
 <h3 align="center">✧ 𝟒𝐁𝟎𝐔𝐓 𝐌𝟑!1!1 ✧</h3>
 
 <p align="center">
