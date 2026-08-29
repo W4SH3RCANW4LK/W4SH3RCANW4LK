@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./welcome.svg" width="800">
+  <img src="./welcome.svg" width="900">
 </p>
 
 <p align="center">
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
 <p align="center">
-  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="700">
+  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="600">
 </p>
 <h3 align="center">✧ 𝟒𝐁𝟎𝐔𝐓 𝐌𝟑!1!1 ✧</h3>
 
