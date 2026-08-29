@@ -64,7 +64,7 @@
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="./footer.svg" width="950">
+  <img src="./footer.svg" width="920">
 </p>
 <p align="center">
   <img src="./kirby_transparent.gif" width="345">
