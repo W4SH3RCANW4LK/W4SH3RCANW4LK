@@ -5,9 +5,8 @@
 <p align="center">
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
-
 <p align="center">
-  <img src="./character3.png" width="520">
+  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="700">
 </p>
 <h3 align="center">✧ 𝟒𝐁𝟎𝐔𝐓 𝐌𝟑!1!1 ✧</h3>
 
@@ -41,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="./character1.png" width="520">
+  <img src="./character1.png" width="400">
 </p>
 
 <p align="center">
