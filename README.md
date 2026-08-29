@@ -68,7 +68,7 @@
   <img src="./footer.svg" width="900">
 </p>
 <p align="center">
-  <img src="./kirby_transparent.gif" width="300">
+  <img src="./kirby_transparent.gif" width="345">
 </p>
 <br>
 
