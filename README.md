@@ -38,7 +38,7 @@
 <!-- ==================== MUSIC ==================== -->
 
 <p align="center">
-<h3 align="center"> ♫ 𝑵0𝑾 𝑷𝑳4𝒀𝑳1𝑵𝑮 ♫♪</h3>
+<h3 align="center"> ♫ 𝑵0𝑾 𝑷𝑳4𝒀𝑳1𝑵𝑮 ♫</h3>
 </p>
 
 <p align="center">
