@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./about3.svg" width="950">
+  <img src="./about3.svg" width="980">
 </p>
 <!-- ==================== MUSIC ==================== -->
 
