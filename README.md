@@ -6,6 +6,12 @@
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
 <p align="center">
+  <a href="https://wh4sh3r.atabook.org/?page=1">
+    <img src="https://img.shields.io/badge/♡_ATABOOK-ff31a1?style=for-the-badge&labelColor=edd4a3"> 
+  </a>
+</p>
+
+<p align="center">
   <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="625">
 </p>
 
@@ -30,7 +36,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/0SQl3QncTyuWTm48vwS4bK">
-    <img src="https://img.shields.io/badge/♫_Psycho_Teddy-Psycho_Teddy-ff3dbf?style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/♫_Psycho_Teddy-Psycho_Teddy-ff31a1?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
 
@@ -39,8 +45,11 @@
   <sub>♫ Psycho Teddy ♡</sub>
 </p>
 
-<br>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=W4SH3RCANW4LK&label=PROFILE+VIEWS&color=ff31a1&style=flat-square">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-51b3dc?style=flat-square">
+  <img src="https://img.shields.io/badge/MOOD-CHAOTIC-e2d587?style=flat-square">
+</p>
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
