@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./welcome.svg" width="855">
+  <img src="./welcome.svg" width="900">
 </p>
 
 <p align="center">
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
 <p align="center">
-  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="625">
+  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="630">
 </p>
 
 <p align="center">
-  <img src="./about3.svg" width="999">
+  <img src="./about3.svg" width="950">
 </p>
 <!-- ==================== MUSIC ==================== -->
 
