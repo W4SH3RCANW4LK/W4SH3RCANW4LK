@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./about1.svg" width="980">
+  <img src="./about2.svg" width="990">
 </p>
 <!-- ==================== MUSIC ==================== -->
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="./character_clean_transparent.gif" width="440">
+  <img src="./character_clean_transparent.gif" width="425">
   
 </p>
 
@@ -44,10 +44,10 @@
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="./footer.svg" width="900">
+  <img src="./footer.svg" width="850">
 </p>
 <p align="center">
-  <img src="./kirby_transparent.gif" width="345">
+  <img src="./kirby_transparent.gif" width="340">
 </p>
 <br>
 
