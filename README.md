@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./welcome.svg" width="860">
+  <img src="./welcome.svg" width="855">
 </p>
 
 <p align="center">
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
 <p align="center">
-  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="630">
+  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="625">
 </p>
 
 <p align="center">
