@@ -6,7 +6,7 @@
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
 <p align="center">
-  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="640">
+  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="635">
 </p>
 
 <p align="center">
