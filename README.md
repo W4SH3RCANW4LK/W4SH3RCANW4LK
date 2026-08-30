@@ -19,12 +19,12 @@
 </p>
 
 <p align="center">
-  <img src="./character_clean_transparent.gif" width="410">
+  <img src="./character_clean_transparent.gif" width="400">
   
 </p>
 
 <p align="center">
-  <img src="./music2.svg" width="990">
+  <img src="./music2.svg" width="999">
 </p>
 
 
