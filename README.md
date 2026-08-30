@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="./character_clean_transparent.gif" width="400">
+  <img src="./character_clean_transparent.gif" width="390">
   
 </p>
 
@@ -44,10 +44,10 @@
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="./footer.svg" width="850">
+  <img src="./footer.svg" width="880">
 </p>
 <p align="center">
-  <img src="./kirby_transparent.gif" width="340">
+  <img src="./kirby_transparent.gif" width="345">
 </p>
 <br>
 
