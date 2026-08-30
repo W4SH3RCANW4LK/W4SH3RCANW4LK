@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="./character_clean_transparent.gif" width="425">
+  <img src="./character_clean_transparent.gif" width="410">
   
 </p>
 
