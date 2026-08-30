@@ -6,7 +6,7 @@
   ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗
 </p>
 <p align="center">
-  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="655">
+  <img src="./5d2a2a88d800c9156bcb793ecf31ae1f.gif" width="665">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <!-- ==================== MUSIC ==================== -->
 
 <p align="center">
-  <img src="./nowplaying.svg" width="970">
+  <img src="./nowplaying2.svg" width="970">
 </p>
 
 <p align="center">
